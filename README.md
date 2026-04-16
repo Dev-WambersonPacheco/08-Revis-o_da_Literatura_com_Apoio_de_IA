@@ -1,10 +1,10 @@
 # 08-Revisao_da_Literatura_com_Apoio_de_IA
 # Sumário
 
-- [Monitoramento Não Invasivo de Frequência Cardíaca e Pressão Arterial via Fotopletismografia Remota (rPPG) e Visão Computacional](#monitoramento-não-invasivo-de-frequência-cardíaca-e-pressão-arterial-via-fotopletismografia-remota-rppg-e-visão-computacional)
-  - [SciSpace](#scispace)
-    - [Questões de pesquisa geradas](#questões-de-pesquisa-geradas)
-    - [Strings de busca utilizadas pela ferramenta](#strings-de-busca-utilizadas-pela-ferramenta)
+- [Monitoramento Não Invasivo de Frequência Cardíaca e Pressão Arterial via Fotopletismografia Remota (rPPG) e Visão Computacional](https://github.com/Dev-WambersonPacheco/08-Revisao_da_Literatura_com_Apoio_de_IA/blob/main/SciSpace.md#monitoramento-n%C3%A3o-invasivo-de-frequ%C3%AAncia-card%C3%ADaca-e-press%C3%A3o-arterial-via-fotopletismografia-remota-rppg-e-vis%C3%A3o-computacional)
+  - [SciSpace](https://github.com/Dev-WambersonPacheco/08-Revisao_da_Literatura_com_Apoio_de_IA/blob/main/SciSpace.md#scispace)
+    - [Questões de pesquisa geradas](https://github.com/Dev-WambersonPacheco/08-Revisao_da_Literatura_com_Apoio_de_IA/blob/main/SciSpace.md#quest%C3%B5es-de-pesquisa-geradas)
+    - [Strings de busca utilizadas pela ferramenta](https://github.com/Dev-WambersonPacheco/08-Revisao_da_Literatura_com_Apoio_de_IA/blob/main/SciSpace.md#strings-de-busca-utilizadas-pela-ferramenta)
     - [Artigos escolhidos](#artigos-escolhidos)
     - [Revisão da literatura](#revisão-da-literatura)
     - [1. Descrição do Problema](#1-descrição-do-problema)
