@@ -21,7 +21,17 @@
   | 4 | all:rPPG+AND+all:machine+learning+AND+all:heart+rate | todos os campos: rPPG E todos os campos: aprendizado de máquina E todos os campos: frequência cardíaca |
   | 5 | all:remote+photoplethysmography+AND+all:blood+pressure+AND+all:computer+vision | todos os campos: fotopletismografia remota E todos os campos: pressão arterial E todos os campos: visão computacional |
 
-## Lista dos 8 artigos escolhidos 
+## 8 artigos escolhidos 
+| Título                                                                                                                                     | Fonte         | Ano  | Relevance Score | Relevance Tag   |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------- | ---- | --------------- | --------------- |
+| Contactless Blood Pressure Measurement via Remote Photoplethysmography with Synthetic Data Generation Using Generative Adversarial Network | IEEE          | 2022 | 100/100         | Highly Relevant |
+| VidFormer: A novel end-to-end framework fused by 3DCNN and Transformer for Video-based Remote Physiological Measurement                    | SciSpace      | 2020 | 100/100         | Highly Relevant |
+| Neurodata Lab’s approach to the Challenge on Computer Vision for Physiological Measurement                                                 | SciSpace      | 2020 | 100/100         | Highly Relevant |
+| HeartTrack: Convolutional neural network for remote video-based heart rate monitoring                                                      | IEEE          | 2020 | 100/100         | Highly Relevant |
+| Non-contact PPG signal and heart rate estimation with multi-hierarchical convolutional network                                             | ScienceDirect | 2023 | 100/100         | Highly Relevant |
+| DEVICE AGNOSTIC MEASUREMENT OF BLOOD PRESSURE FROM RPPG SIGNALS                                                                            | SciSpace      | 2023 | 100/100         | Highly Relevant |
+| AI-enabled remote monitoring of vital signs for COVID-19: methods, prospects and challenges                                                | Springer      | 2023 | 100/100         | Highly Relevant |
+| FREQ2TIME: WEAKLY SUPERVISED LEARNING OF CAMERA-BASED RPPG FROM HEART RATE                                                                 | IEEE          | 2024 | 100/100         | Highly Relevant |
 
 
 ## Revisão da literatura 
