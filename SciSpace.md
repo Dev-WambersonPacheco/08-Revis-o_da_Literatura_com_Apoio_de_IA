@@ -52,6 +52,9 @@ Menos comum, mas utilizado na fase de pré-processamento para segmentar regiões
 
 
 
+Contactless Blood Pressure Measurement Via Remote Photoplethysmography With Synthetic Data Generation Using Generative Adversarial Networks
+
+
 ### 4. Principais Desafios na Literatura
 Variações de Iluminação: Mudanças súbitas ou luz ambiente fraca podem obscurecer as variações de cor da pele, dificultando a extração do sinal.
 Movimentos da Cabeça: Movimentos voluntários ou involuntários do usuário introduzem ruídos que superam a amplitude do sinal rPPG.
